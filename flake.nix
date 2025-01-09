@@ -14,7 +14,7 @@
         pname = name;
         version = "0.0.1";
         src = ./.;
-        vendorHash = "sha256-Koc5Z//NrrPyFVR+XchoL2DIQc9/vUCr9XUDPucIFOA=";
+        vendorHash = "sha256-KxT0ZHRZURa9DWjvVSAt3FOZq8HGy1ocwQy1Y0E+iTw=";
         meta = {
           mainProgram = name;
         };
